@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <title>To Do</title>
+  </head>
+  <body>
+    <div class="main-title">
+      <h1>To Do List</h1>
+    </div>
+    <div class="to-do-display">
+      <div class="grid-container ">
+        <div class="grid-item-1-date">
+          <div id="date"></div>
+          <div id="counter">0 tasks</div>
+        </div>
+        <div class="grid-item-2-add-task">
+          <input type="text" id="user-task" name="name" placeholder="Add a New Task">
+        </div>
+        <div class="grid-item-3-add-btn">
+          <button id="addButton" type="button"> Add </button>
+          <button id="clearButton" type="button"> clear </button>
+        </div>
+        <div class="grid-item-4-all-task">
+          <span class="active active-filter" id="all">All</span>
+        </div>
+        <div class="grid-item-5-pending-task">
+          <span class="pending">Pending</span>
+        </div>
+        <div class="grid-item-6-completed-task">
+          <span class="completed">Completed</span>
+        </div>
+        <div class="grid-item-7-display-task">
+          <div class="display-message"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
