@@ -13,7 +13,7 @@ You can filter the tasks using the "All," "Pending," and "Completed" buttons. Cl
 <img  alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </p>
 
-![Image]()
+![Image](https://github.com/akshaysadalgekar03/to-do-list/blob/main/Screen%20Shot%202023-07-23%20at%205.13.25%20PM.png)
 
 Feel free to customize and enhance the design and functionality of the To-Do list to suit your preferences and needs!
 
